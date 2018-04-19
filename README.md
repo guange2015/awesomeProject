@@ -16,6 +16,6 @@
 
 ## 计划实现的功能
 
-- [] 定制tomcat同步部署，智能忽略配置，重启tomcat
-- [] 同步通知，钉钉,tower, worktile类机器人
+- [ ] 定制tomcat同步部署，智能忽略配置，重启tomcat
+- [ ] 同步通知，钉钉,tower, worktile类机器人
 ....
